@@ -1,4 +1,21 @@
 {
   "url": "https://context7.com/mccalpink/maxogram",
-  "public_key": "pk_7PfTTB17DWi98VGOqH3B2"
+  "public_key": "pk_7PfTTB17DWi98VGOqH3B2",
+  "$schema": "https://context7.com/schema/context7.json",
+  "projectTitle": "maxogram",
+  "description": "Async Python framework for Max Bot API, inspired by aiogram. Typed, extensible interface for building bots in Max messenger.",
+  "folders": ["docs", "examples", "src/maxogram"],
+  "excludeFolders": ["tests", ".github"],
+  "excludeFiles": ["poetry.lock"],
+  "rules": [
+    "maxogram is for Max Bot API (dev.max.ru), NOT Telegram Bot API",
+    "Max messenger is a Russian messenger by VK (rebranded from TamTam in 2025)",
+    "Do not confuse with VK Teams / myteam - these are different platforms",
+    "API base URL: https://botapi.max.ru",
+    "Use aiohttp for HTTP sessions, Pydantic v2 for models",
+    "Python 3.11+ required",
+    "Import key classes: from maxogram import Bot, Dispatcher, Router, F",
+    "FSM storage options: MemoryStorage (default), RedisStorage, MongoStorage",
+    "Webhook and polling modes supported"
+  ]
 }
