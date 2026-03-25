@@ -1,8 +1,8 @@
 # maxogram
 
-[![Python](https://img.shields.io/pypi/pyversions/maxogram)](https://pypi.org/project/maxogram/)
-[![PyPI](https://img.shields.io/pypi/v/maxogram)](https://pypi.org/project/maxogram/)
-[![Downloads](https://img.shields.io/pypi/dm/maxogram)](https://pypi.org/project/maxogram/)
+[![Python](https://img.shields.io/pypi/pyversions/maxogram?v=1)](https://pypi.org/project/maxogram/)
+[![PyPI](https://img.shields.io/pypi/v/maxogram?v=1)](https://pypi.org/project/maxogram/)
+[![Downloads](https://img.shields.io/pypi/dm/maxogram?v=1)](https://pypi.org/project/maxogram/)
 [![CI](https://github.com/mccalpink/maxogram/actions/workflows/ci.yml/badge.svg)](https://github.com/mccalpink/maxogram/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![mypy](https://img.shields.io/badge/mypy-strict-blue)](https://mypy-lang.org/)
