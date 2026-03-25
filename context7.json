@@ -1,4 +1,6 @@
 {
+  "url": "https://context7.com/mccalpink/maxogram",
+  "public_key": "pk_7PfTTB17DWi98VGOqH3B2",
   "$schema": "https://context7.com/schema/context7.json",
   "projectTitle": "maxogram",
   "description": "Async Python framework for Max Bot API, inspired by aiogram. Typed, extensible interface for building bots in Max messenger.",
